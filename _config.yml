@@ -1,6 +1,6 @@
 # Site settings
 title: Pradeep's Photo Gallery
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+description: "" #Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
 baseurl: "/pictures" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
