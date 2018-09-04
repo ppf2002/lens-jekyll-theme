@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Lens by HTML5 UP
+album: general
 ---
 
 <!-- Thumbnail -->

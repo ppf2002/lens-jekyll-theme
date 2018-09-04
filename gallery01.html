@@ -1,0 +1,14 @@
+---
+layout: home
+title: Lens by HTML5 UP
+album: gallery01
+---
+
+<!-- Thumbnail -->
+<section id="thumbnails">{% for photo in  site.data.images.fotki %}
+	<article>
+		<a class="thumbnail" href="{{ photo.image }}" data-position="left center"><img src="{{ photo.tnailurl }}" alt="photo.name" /></a>
+		<h2>{{ photo.title }}</h2>
+		<p>{{ photo.name }}</p>
+	</article>
+{% endfor %}</section>
