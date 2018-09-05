@@ -20,10 +20,6 @@ fotki:
   image: https://images14.fotki.com/v219/photos/7/1858297/16017431/_BOG5388-vi.jpg
   tnailurl: https://images14.fotki.com/v219/photos/7/1858297/16017431/_BOG5388-th.jpg
 - name: Summer
-  title: BOG5400
-  image: https://images45.fotki.com/v1200/photos/7/1858297/16017431/_BOG5400-vi.jpg
-  tnailurl: https://images45.fotki.com/v1200/photos/7/1858297/16017431/_BOG5400-th.jpg
-- name: Summer
   title: PPF1270
   image: https://images44.fotki.com/v1644/photos/7/1858297/16017431/_PPF1270-vi.jpg
   tnailurl: https://images44.fotki.com/v1644/photos/7/1858297/16017431/_PPF1270-th.jpg
@@ -43,7 +39,3 @@ fotki:
   title: DSC 1999
   image: https://images49.fotki.com/v1556/photos/7/1858297/16017431/DSC_1999-vi.jpg
   tnailurl: https://images49.fotki.com/v1556/photos/7/1858297/16017431/DSC_1999-th.jpg
-- name: Summer
-  title: DSC03997
-  image: https://images45.fotki.com/v1649/photos/7/1858297/16017431/DSC03997-vi.jpg
-  tnailurl: https://images45.fotki.com/v1649/photos/7/1858297/16017431/DSC03997-th.jpg
